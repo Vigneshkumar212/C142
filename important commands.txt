@@ -1,0 +1,6 @@
+C:\Users\saba2>cd C:\Users\saba2\Desktop\whitehat\datasc\C142
+C:\Users\saba2\Desktop\whitehat\datasc\C141>python -m venv venv
+C:\Users\saba2\Desktop\whitehat\datasc\C141>venv\Scripts\activate.bat
+
+(venv) C:\Users\saba2\Desktop\whitehat\datasc\C141>pip install Flask
+
